@@ -1,4 +1,4 @@
-module github.com/REPLACE_ME_ORG/REPLACE_ME_APP_NAME
+module github.com/cb-kubecd/jrfoo133
 
 go 1.12
 

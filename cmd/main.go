@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/REPLACE_ME_ORG/REPLACE_ME_APP_NAME/cmd/root"
+	"github.com/cb-kubecd/jrfoo133/cmd/root"
 )
 
 // Entrypoint for the command
